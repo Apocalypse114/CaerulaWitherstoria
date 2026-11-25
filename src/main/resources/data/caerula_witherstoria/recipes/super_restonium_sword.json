@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    "aba",
+    "ca "
+  ],
+  "key": {
+    "a": {
+      "item": "caerula_arbor:redstonium_block"
+    },
+    "b": {
+      "item": "caerula_arbor:apocalypse"
+    },
+    "c": {
+      "item": "caerula_arbor:redstonium"
+    }
+  },
+  "result": {
+    "item": "caerula_witherstoria:super_redstonium_sword",
+    "count": 1
+  }
+}

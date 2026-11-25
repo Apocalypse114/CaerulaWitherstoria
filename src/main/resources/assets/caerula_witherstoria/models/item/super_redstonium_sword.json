@@ -1,0 +1,8 @@
+{
+  "parent": "caerula_witherstoria:custom/edged_sword",
+  "textures": {
+    "0": "caerula_witherstoria:block/super_redstonium_sowrd",
+    "1": "caerula_witherstoria:block/super_redstonium_sowrd_edge",
+    "particle": ":item/"
+  }
+}

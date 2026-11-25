@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU Lesser General Public License version 3 (LGPLv3)"
+
+[[mods]]
+modId="caerula_witherstoria"
+version="0.0.4"
+displayName="Caerula Witherstoria"
+displayURL="https://mcreator.net"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Apocalypse114, MCreator"
+description="Boss expansion for Caerula Arbor"
+
+
+[[dependencies.caerula_witherstoria]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+[[dependencies.caerula_witherstoria]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.caerula_witherstoria]]
+modId="caerula_arbor"
+mandatory=false
+versionRange="[0,)"
+ordering="NONE"
+side="BOTH"

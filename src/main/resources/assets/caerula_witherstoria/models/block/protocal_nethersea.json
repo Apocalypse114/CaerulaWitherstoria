@@ -1,0 +1,13 @@
+{
+  "parent": "caerula_witherstoria:custom/nethersea_command_block",
+  "textures": {
+    "all": "caerula_witherstoria:block/nethersea_cb_front",
+    "particle": "caerula_witherstoria:block/nethersea_cb_front",
+    "0": "caerula_witherstoria:block/nethersea_block",
+    "1": "caerula_witherstoria:block/nethersea_cb_front",
+    "2": "caerula_witherstoria:block/nethersea_cb_back",
+    "3": "caerula_witherstoria:block/nethersea_cb_side",
+    "4": "caerula_witherstoria:block/nethersea_command_block_beam"
+  },
+  "render_type": "cutout"
+}

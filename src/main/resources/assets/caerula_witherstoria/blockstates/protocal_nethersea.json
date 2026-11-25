@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "caerula_witherstoria:block/protocal_nethersea",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "caerula_witherstoria:block/protocal_nethersea"
+    },
+    "axis=z": {
+      "model": "caerula_witherstoria:block/protocal_nethersea",
+      "x": 90
+    }
+  }
+}
